@@ -1,5 +1,5 @@
 /*jshint esversion: 8 */
-const cacheName = 'v1.0';
+const cacheName = 'v1.1';
 // const resourcesToPrecache = [
 // 	"/css/bootstrap.css",
 //     "/css/font-awesome.min.css",
