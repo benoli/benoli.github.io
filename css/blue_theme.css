@@ -1,0 +1,44 @@
+.menu-logo{
+    width: 20%;
+    border-style: solid;
+    border-color: #5d99c5;
+    margin: 2.5rem 1rem 0rem 0rem;
+}
+  
+.text-primary{
+    color: #5d99c5 !important;
+}
+  
+.sticky-wrapper.is-sticky .site-navbar ul li a.active {
+    color: #5d99c5 !important; 
+}
+
+.site-navbar .site-navigation .site-menu .active {
+    color: #5d99c5 !important; 
+}
+
+.ul-check.primary li:before {
+    color: #5d99c5 !important;  
+}
+
+.block-heading-1 h2 {
+    font-size: 3rem;
+    color: #5d99c5; 
+}
+
+.btn-primary {
+    color: #212529;
+    background-color: #5d99c5;
+        border-color: #5d99c5;
+}
+.footer-suscribe-form .btn {
+    background: #5d99c5;
+    color: #fff;
+    border-color: #5d99c5; 
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #3f7499;
+    border-color: #3f7499;
+}

@@ -1,0 +1,43 @@
+.menu-logo{
+    width: 20%;
+    border-style: solid;
+    border-color: #c51f2b;
+    margin: 2.5rem 1rem 0rem 0rem;
+}
+  
+.text-primary{
+    color: #c31e2a !important;
+}
+  
+.sticky-wrapper.is-sticky .site-navbar ul li a.active {
+    color: #c31e2a !important; 
+}
+
+.site-navbar .site-navigation .site-menu .active {
+    color: #c31e2a !important; 
+}
+
+.ul-check.primary li:before {
+    color: #c31e2a !important;  
+}
+
+.block-heading-1 h2 {
+    font-size: 3rem;
+    color: #c31e2a; 
+}
+
+.btn-primary {
+    color: #212529;
+    background-color: #c31e2a;
+        border-color: #c31e2a;
+}
+.footer-suscribe-form .btn {
+    background: #c31e2a;
+    color: #fff;
+    border-color: #c31e2a; 
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #a8363e;
+    border-color: #a8363e;
